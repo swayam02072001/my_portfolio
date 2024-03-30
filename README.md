@@ -42,7 +42,4 @@ If you'd like to run the website locally:
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-
 ---
-
-Feel free to customize the content according to your specific portfolio details, technologies used, and licensing preferences. This README serves as a starting point to provide visitors with information about your portfolio repository.
