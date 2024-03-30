@@ -1,6 +1,6 @@
 # My Portfolio
 
-[Visit my portfolio website](https://swayam02072001.github.io/my_portfolio/)
+[Visit my portfolio](https://swayam02072001.github.io/my_portfolio/)
 
 Welcome to my portfolio repository! This repository contains the code for my personal portfolio website, showcasing my projects, skills, and experiences.
 
@@ -31,17 +31,18 @@ This portfolio website serves as a digital representation of my work as a develo
 
 ## How to Use
 
-To view my portfolio website, simply visit [https://swayam02072001.github.io/my_portfolio/].
+To view my portfolio website, simply visit [[My Portfolio](https://swayam02072001.github.io/my_portfolio/)].
 
 If you'd like to run the website locally:
 
 1. Clone this repository to your local machine using `git clone`.
 2. Open the `index.html` file in your preferred web browser.
+
 ## Contributing
 
-Contributions are welcome! Feel free to open an issue or submit a pull request with any improvements or additional features.
+Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-## License
 
-- This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ---
+
+Feel free to customize the content according to your specific portfolio details, technologies used, and licensing preferences. This README serves as a starting point to provide visitors with information about your portfolio repository.
