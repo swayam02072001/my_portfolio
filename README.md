@@ -1,6 +1,6 @@
 # My Portfolio
 
-[Visit my portfolio website](https://swayam02072001.github.io/my_portfolio/)
+[Visit my portfolio](https://swayam02072001.github.io/my_portfolio/)
 
 Welcome to my portfolio repository! This repository contains the code for my personal portfolio website, showcasing my projects, skills, and experiences.
 
